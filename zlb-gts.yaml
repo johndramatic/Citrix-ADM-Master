@@ -88,7 +88,7 @@ components:
               servicegroupname: $parent.properties.servicegroupname
           -
             name: server-members
-            type: ns::server89
+            type: ns::server
             repeat: $parameters.svc-servers
             repeat-item: server
             repeat-condition: $server.add-server
