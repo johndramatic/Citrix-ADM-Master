@@ -15,7 +15,7 @@ import-stylebooks:
     prefix: cmtypes
     version: "1.0"
   - 
-    namespace: com.citrix.adc.stylebooks
+    namespace: com.citrix.adc.stylebooks1
     prefix: stlb
     version: "1.0"
 parameters-default-sources:
