@@ -7,7 +7,7 @@ private: true
 schema-version: "1.0"
 import-stylebooks:
   - 
-    namespace: com.citrix.adc.commontypes
+    namespace: com.citrix.adc.commontypes1
     prefix: cmtypes
     version: "1.0"
 parameters: 
